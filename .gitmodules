@@ -1,9 +1,9 @@
 [submodule "blockchain-kyc-contracts"]
 	path = blockchain-kyc-contracts
 	url = https://github.com/0x0OZ/blockchain-kyc-contracts
-[submodule "blockchain-kyc-backend"]
-	path = blockchain-kyc-backend
-	url = https://github.com/0x0OZ/blockchain-kyc-backend
 [submodule "blockchain-kyc-frontend"]
 	path = blockchain-kyc-frontend
 	url = https://github.com/0x0OZ/blockchain-kyc-frontend
+[submodule "blockchain-kyc-backend"]
+	path = blockchain-kyc-backend
+	url = https://github.com/0x0OZ/blockchain-kyc-backend
